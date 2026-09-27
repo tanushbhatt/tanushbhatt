@@ -2,47 +2,51 @@
   {
     "name": "gemini-api-integration",
     "repo": "tanushbhatt/gemini-api-integration",
-    "description": "A Python AI chatbot built with Google Gemini API featuring conversation memory, MongoDB integration, chat management, and export functionality.",
-    "language": "Python",
+    "description": "A Python AI chatbot built with the Google Gemini API, featuring conversation memory, MongoDB integration, chat management, and export functionality.",
+    "languages": {"Python": 100.0},
     "stars": 1,
     "url": "https://github.com/tanushbhatt/gemini-api-integration"
-  },
-  {
-    "name": "tanushbhatt",
-    "repo": "tanushbhatt/tanushbhatt",
-    "description": "",
-    "language": "Python",
-    "stars": 1,
-    "url": "https://github.com/tanushbhatt/tanushbhatt"
   },
   {
     "name": "VidSnap_AI",
     "repo": "tanushbhatt/VidSnap_AI",
     "description": "",
-    "language": "HTML",
+    "languages": {"HTML": 47.0, "Python": 37.1, "CSS": 15.9},
     "stars": 1,
     "url": "https://github.com/tanushbhatt/VidSnap_AI"
   },
   {
     "name": "MyFirstGithubRepo",
     "repo": "tanushbhatt/MyFirstGithubRepo",
-    "description": "Tower Of Hanoi game",
-    "language": "HTML",
+    "description": "Tower Of Hanoi game.",
+    "languages": {"HTML": 100.0},
+    "stars": 0,
     "url": "https://github.com/tanushbhatt/MyFirstGithubRepo"
   },
   {
     "name": "SPARK-AI-Assistant",
     "repo": "tanushbhatt/SPARK-AI-Assistant",
     "description": "An intelligent AI assistant built with Python, automation, and modern AI technologies.",
-    "language": "Python",
+    "languages": {"Python": 70.8, "HTML": 29.2},
+    "stars": 0,
     "url": "https://github.com/tanushbhatt/SPARK-AI-Assistant"
   },
   {
     "name": "Team-Axis",
     "repo": "tanushbhatt/Team-Axis",
-    "description": "Crop Yield Prediction",
-    "language": "Jupyter Notebook",
+    "description": "Crop Yield Prediction.",
+    "languages": {"Jupyter Notebook": 89.7, "HTML": 4.0, "Python": 3.8, "JavaScript": 1.5, "CSS": 1.0},
+    "stars": 0,
     "forked_from": "sampreeti10116/Team-Axis",
     "url": "https://github.com/tanushbhatt/Team-Axis"
+  },
+  {
+    "name": "JARVIS",
+    "repo": "tanushbhatt/JARVIS",
+    "description": "J.A.R.V.I.S for automating your daily tasks using Claude Code.",
+    "languages": {"TypeScript": 60.7, "JavaScript": 30.3, "CSS": 8.4, "HTML": 0.6},
+    "stars": 0,
+    "forked_from": "adewaskar/jarvis",
+    "url": "https://github.com/tanushbhatt/JARVIS"
   }
 ]

@@ -1,0 +1,108 @@
+<svg width="1180" height="725" viewBox="0 0 1180 725" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1180" height="725" fill="#F8FAFC"/>
+  <text x="20" y="34" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#22D3EE">PROJECTS.LIST</text>
+  <text x="20" y="56" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#475569">$ ./projects.sh --all</text>
+
+<rect x="20" y="76" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="40" y="98" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/gemini-api-integration</text>
+<rect x="40" y="108" width="34" height="34" rx="7" fill="#3572A5" opacity="0.18"/>
+<text x="57" y="131" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#3572A5">G</text>
+<text x="86" y="128" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">gemini-api-integration<tspan fill="#3572A5">_</tspan></text>
+<text x="560" y="98" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#F59E0B">&#9733; 1</text>
+<text x="40" y="156" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">A Python AI chatbot built with Google</text>
+<text x="40" y="171" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">Gemini API featuring conversation memory,…</text>
+<circle cx="44" cy="198" r="4" fill="#3572A5"/>
+<text x="54" y="202" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">Python 100%</text>
+<circle cx="518" cy="176" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="518" cy="176" r="34" fill="none" stroke="#3572A5" stroke-width="7" stroke-dasharray="212.13 1.50" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 518 176)"/>
+<text x="518" y="180" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">100%</text>
+<rect x="600" y="76" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="620" y="98" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/VidSnap_AI</text>
+<rect x="620" y="108" width="34" height="34" rx="7" fill="#E34C26" opacity="0.18"/>
+<text x="637" y="131" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#E34C26">V</text>
+<text x="666" y="128" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">VidSnap_AI<tspan fill="#E34C26">_</tspan></text>
+<text x="1140" y="98" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#F59E0B">&#9733; 1</text>
+<circle cx="624" cy="190" r="4" fill="#E34C26"/>
+<text x="634" y="194" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">HTML 47%</text>
+<circle cx="624" cy="205" r="4" fill="#3572A5"/>
+<text x="634" y="209" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">Python 37.1%</text>
+<circle cx="624" cy="220" r="4" fill="#563D7C"/>
+<text x="634" y="224" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">CSS 15.9%</text>
+<circle cx="1098" cy="176" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="1098" cy="176" r="34" fill="none" stroke="#E34C26" stroke-width="7" stroke-dasharray="98.91 114.72" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 1098 176)"/>
+<circle cx="1098" cy="176" r="34" fill="none" stroke="#3572A5" stroke-width="7" stroke-dasharray="77.76 135.87" stroke-dashoffset="-100.41" stroke-linecap="round" transform="rotate(-90 1098 176)"/>
+<circle cx="1098" cy="176" r="34" fill="none" stroke="#563D7C" stroke-width="7" stroke-dasharray="32.47 181.16" stroke-dashoffset="-179.66" stroke-linecap="round" transform="rotate(-90 1098 176)"/>
+<text x="1098" y="180" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">47%</text>
+<rect x="20" y="291" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="40" y="313" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/MyFirstGithubRepo</text>
+<rect x="40" y="323" width="34" height="34" rx="7" fill="#E34C26" opacity="0.18"/>
+<text x="57" y="346" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#E34C26">M</text>
+<text x="86" y="343" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">MyFirstGithubRepo<tspan fill="#E34C26">_</tspan></text>
+<text x="40" y="371" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">Tower Of Hanoi game.</text>
+<circle cx="44" cy="405" r="4" fill="#E34C26"/>
+<text x="54" y="409" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">HTML 100%</text>
+<circle cx="518" cy="391" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="518" cy="391" r="34" fill="none" stroke="#E34C26" stroke-width="7" stroke-dasharray="212.13 1.50" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 518 391)"/>
+<text x="518" y="395" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">100%</text>
+<rect x="600" y="291" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="620" y="313" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/SPARK-AI-Assistant</text>
+<rect x="620" y="323" width="34" height="34" rx="7" fill="#3572A5" opacity="0.18"/>
+<text x="637" y="346" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#3572A5">S</text>
+<text x="666" y="343" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">SPARK-AI-Assistant<tspan fill="#3572A5">_</tspan></text>
+<text x="620" y="371" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">An intelligent AI assistant built with</text>
+<text x="620" y="386" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">Python, automation, and modern AI…</text>
+<circle cx="624" cy="413" r="4" fill="#3572A5"/>
+<text x="634" y="417" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">Python 70.8%</text>
+<circle cx="624" cy="428" r="4" fill="#E34C26"/>
+<text x="634" y="432" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">HTML 29.2%</text>
+<circle cx="1098" cy="391" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="1098" cy="391" r="34" fill="none" stroke="#3572A5" stroke-width="7" stroke-dasharray="149.75 63.88" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 1098 391)"/>
+<circle cx="1098" cy="391" r="34" fill="none" stroke="#E34C26" stroke-width="7" stroke-dasharray="60.88 152.75" stroke-dashoffset="-151.25" stroke-linecap="round" transform="rotate(-90 1098 391)"/>
+<text x="1098" y="395" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">70.8%</text>
+<rect x="20" y="506" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="40" y="528" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/Team-Axis</text>
+<rect x="40" y="538" width="34" height="34" rx="7" fill="#DA5B0B" opacity="0.18"/>
+<text x="57" y="561" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#DA5B0B">T</text>
+<text x="86" y="558" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">Team-Axis<tspan fill="#DA5B0B">_</tspan></text>
+<text x="40" y="586" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">Crop Yield Prediction.</text>
+<text x="40" y="605" font-family="'JetBrains Mono',Consolas,monospace" font-size="10" font-style="italic" fill="#0369A1">forked from sampreeti10116/Team-Axis</text>
+<circle cx="44" cy="627" r="4" fill="#DA5B0B"/>
+<text x="54" y="631" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">Jupyter Notebook 89.7%</text>
+<circle cx="44" cy="642" r="4" fill="#E34C26"/>
+<text x="54" y="646" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">HTML 4%</text>
+<circle cx="44" cy="657" r="4" fill="#3572A5"/>
+<text x="54" y="661" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">Python 3.8%</text>
+<circle cx="44" cy="672" r="4" fill="#F1E05A"/>
+<text x="54" y="676" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">JavaScript 1.5%</text>
+<circle cx="44" cy="687" r="4" fill="#563D7C"/>
+<text x="54" y="691" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">CSS 1%</text>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#DA5B0B" stroke-width="7" stroke-dasharray="190.12 23.50" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 518 606)"/>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#E34C26" stroke-width="7" stroke-dasharray="7.05 206.58" stroke-dashoffset="-191.62" stroke-linecap="round" transform="rotate(-90 518 606)"/>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#3572A5" stroke-width="7" stroke-dasharray="6.62 207.01" stroke-dashoffset="-200.17" stroke-linecap="round" transform="rotate(-90 518 606)"/>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#F1E05A" stroke-width="7" stroke-dasharray="1.70 211.92" stroke-dashoffset="-208.29" stroke-linecap="round" transform="rotate(-90 518 606)"/>
+<circle cx="518" cy="606" r="34" fill="none" stroke="#563D7C" stroke-width="7" stroke-dasharray="0.64 212.99" stroke-dashoffset="-211.49" stroke-linecap="round" transform="rotate(-90 518 606)"/>
+<text x="518" y="610" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">89.7%</text>
+<rect x="600" y="506" width="560" height="195" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+<text x="620" y="528" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#94A3B8">tanushbhatt/JARVIS</text>
+<rect x="620" y="538" width="34" height="34" rx="7" fill="#2B7489" opacity="0.18"/>
+<text x="637" y="561" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#2B7489">J</text>
+<text x="666" y="558" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="700" fill="#0F172A">JARVIS<tspan fill="#2B7489">_</tspan></text>
+<text x="620" y="586" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">J.A.R.V.I.S for automating your daily</text>
+<text x="620" y="601" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#475569">tasks using Claude Code.</text>
+<text x="620" y="620" font-family="'JetBrains Mono',Consolas,monospace" font-size="10" font-style="italic" fill="#0369A1">forked from adewaskar/jarvis</text>
+<circle cx="624" cy="642" r="4" fill="#2B7489"/>
+<text x="634" y="646" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">TypeScript 60.7%</text>
+<circle cx="624" cy="657" r="4" fill="#F1E05A"/>
+<text x="634" y="661" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">JavaScript 30.3%</text>
+<circle cx="624" cy="672" r="4" fill="#563D7C"/>
+<text x="634" y="676" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">CSS 8.4%</text>
+<circle cx="624" cy="687" r="4" fill="#E34C26"/>
+<text x="634" y="691" font-family="'JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#475569">HTML 0.6%</text>
+<circle cx="1098" cy="606" r="34" fill="none" stroke="#E2E8F0" stroke-width="7"/>
+<circle cx="1098" cy="606" r="34" fill="none" stroke="#2B7489" stroke-width="7" stroke-dasharray="128.17 85.46" stroke-dashoffset="-0.00" stroke-linecap="round" transform="rotate(-90 1098 606)"/>
+<circle cx="1098" cy="606" r="34" fill="none" stroke="#F1E05A" stroke-width="7" stroke-dasharray="63.23 150.40" stroke-dashoffset="-129.67" stroke-linecap="round" transform="rotate(-90 1098 606)"/>
+<circle cx="1098" cy="606" r="34" fill="none" stroke="#563D7C" stroke-width="7" stroke-dasharray="16.44 197.18" stroke-dashoffset="-194.40" stroke-linecap="round" transform="rotate(-90 1098 606)"/>
+<circle cx="1098" cy="606" r="34" fill="none" stroke="#E34C26" stroke-width="7" stroke-dasharray="0.50 213.13" stroke-dashoffset="-212.35" stroke-linecap="round" transform="rotate(-90 1098 606)"/>
+<text x="1098" y="610" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#0F172A">60.7%</text>
+</svg>
