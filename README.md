@@ -40,47 +40,53 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 [gemini-api-integration](https://github.com/tanushbhatt/gemini-api-integration)
+### [gemini-api-integration](https://github.com/tanushbhatt/gemini-api-integration)
 A Python AI chatbot built with the Google Gemini API, featuring conversation memory, MongoDB integration, chat management, and export functionality.
-`Python` · ⭐ 1
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) ![stars](https://img.shields.io/badge/%E2%98%85%201-F59E0B?style=flat-square&labelColor=0A101F)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟦 [tanushbhatt](https://github.com/tanushbhatt/tanushbhatt)
+### [tanushbhatt](https://github.com/tanushbhatt/tanushbhatt)
 This profile's own source repository.
-`Python` · ⭐ 1
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) ![stars](https://img.shields.io/badge/%E2%98%85%201-F59E0B?style=flat-square&labelColor=0A101F)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟧 [VidSnap_AI](https://github.com/tanushbhatt/VidSnap_AI)
-`HTML` · ⭐ 1
+### [VidSnap_AI](https://github.com/tanushbhatt/VidSnap_AI)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) ![stars](https://img.shields.io/badge/%E2%98%85%201-F59E0B?style=flat-square&labelColor=0A101F)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟧 [MyFirstGithubRepo](https://github.com/tanushbhatt/MyFirstGithubRepo)
+### [MyFirstGithubRepo](https://github.com/tanushbhatt/MyFirstGithubRepo)
 Tower Of Hanoi game.
-`HTML`
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟦 [SPARK-AI-Assistant](https://github.com/tanushbhatt/SPARK-AI-Assistant)
+### [SPARK-AI-Assistant](https://github.com/tanushbhatt/SPARK-AI-Assistant)
 An intelligent AI assistant built with Python, automation, and modern AI technologies.
-`Python`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟨 [Team-Axis](https://github.com/tanushbhatt/Team-Axis)
+### [Team-Axis](https://github.com/tanushbhatt/Team-Axis)
 Crop Yield Prediction. *(forked from sampreeti10116/Team-Axis)*
-`Jupyter Notebook`
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logoColor=white)
 
 </td>
 </tr>
