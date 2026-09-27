@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: tanushbhatt
           outputs: |
-            dist/snake-dark.svg?color_snake=22D3EE&color_dots=2d3343,7dd3fc,38bdf8,0ea5e9,7c3aed
+            dist/snake-dark.svg?color_snake=22D3EE&color_dots=334155,7dd3fc,38bdf8,0ea5e9,7c3aed
             dist/snake-light.svg?color_snake=0891B2&color_dots=e2e8f0,7dd3fc,38bdf8,0ea5e9,7c3aed
 
       - name: Push snake animation to the output branch
