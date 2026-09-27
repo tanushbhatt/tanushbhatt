@@ -1,111 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Tanush%20Bhatt&fontSize=42&fontColor=0b1120&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18&descColor=0b1120" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <img src="assets/dark.svg" alt="Tanush Bhatt" width="100%">
+</picture>
 
-<a href="https://github.com/tanushbhatt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI+with+Python+%26+Data+Science;Creator+of+SPARK-AI+Assistant;Creator+of+VidSnap+AI;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
-</a>
+<br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-7dd3fc?style=for-the-badge&labelColor=0b1120)
+<!-- ============== STREAK ============== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=default&hide_border=true">
+  <img src="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanushbhatt&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/tanushbhatt?color=7dd3fc&style=flat-square&label=Followers)
+<!-- ============== STATS + TOP LANGUAGES ============== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-one-93.vercel.app/api?username=tanushbhatt&show_icons=true&theme=dark&hide_border=true&hide_rank=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-one-93.vercel.app/api?username=tanushbhatt&show_icons=true&theme=default&hide_border=true&hide_rank=true">
+  <img src="https://github-readme-stats-jade-one-93.vercel.app/api?username=tanushbhatt&show_icons=true&theme=dark&hide_border=true&hide_rank=true" alt="GitHub Stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-one-93.vercel.app/api/top-langs/?username=tanushbhatt&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-one-93.vercel.app/api/top-langs/?username=tanushbhatt&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats-jade-one-93.vercel.app/api/top-langs/?username=tanushbhatt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%">
+</picture>
+
+<!-- ============== CONTRIBUTION SNAKE ============== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanushbhatt/tanushbhatt/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanushbhatt/tanushbhatt/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/tanushbhatt/tanushbhatt/output/snake-dark.svg" alt="Contribution Snake" width="100%">
+</picture>
 
 </div>
 
-## 👤 Who I Am
+<br/>
 
-```ts
-const tanushBhatt = {
-  title: "CS Student | Aspiring Data Scientist",
-  stack: {
-    languages: ["Python", "Java", "C", "JavaScript", "SQL"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    backend: ["Flask", "Django"],
-    aiDataScience: ["Pandas", "NumPy", "Seaborn", "Matplotlib", "Scikit-learn", "OpenCV", "Google Gemini"],
-    databases: ["MySQL", "MongoDB", "Neo4j"],
-    cloud: ["Google Cloud"],
-  },
-  launchedProjects: ["SPARK-AI Assistant", "VidSnap AI"],
-  status: "Open to Work 🟢",
-  openTo: ["AI/ML Internships", "Data Science Roles", "Python Development"],
-};
-```
+## `./projects.sh --all`
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 SPARK-AI Assistant
+### 🟦 [gemini-api-integration](https://github.com/tanushbhatt/gemini-api-integration)
+A Python AI chatbot built with the Google Gemini API, featuring conversation memory, MongoDB integration, chat management, and export functionality.
+`Python` · ⭐ 1
 
-> An intelligent AI assistant built with Python, automation, and modern AI technologies.
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/tanushbhatt/SPARK-AI-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanushbhatt&repo=SPARK-AI-Assistant&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="SPARK-AI Assistant" />
-</a>
+### 🟦 [tanushbhatt](https://github.com/tanushbhatt/tanushbhatt)
+This profile's own source repository.
+`Python` · ⭐ 1
 
-| Layer         | Technology            |
-|---------------|------------------------|
-| Language      | Python                 |
-| AI            | Google Gemini          |
-| Type          | Automation / Assistant |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [Code](https://github.com/tanushbhatt/SPARK-AI-Assistant)
+### 🟧 [VidSnap_AI](https://github.com/tanushbhatt/VidSnap_AI)
+`HTML` · ⭐ 1
 
-### 🎬 VidSnap AI
+</td>
+<td width="50%" valign="top">
 
-> An AI-powered Reel Generator.
+### 🟧 [MyFirstGithubRepo](https://github.com/tanushbhatt/MyFirstGithubRepo)
+Tower Of Hanoi game.
+`HTML`
 
-<a href="https://github.com/tanushbhatt/VidSnap_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanushbhatt&repo=VidSnap_AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="VidSnap AI" />
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Layer            | Technology     |
-|-------------------|---------------|
-| Language          | Python        |
-| Media Processing  | FFmpeg        |
-| AI                | Google Gemini |
+### 🟦 [SPARK-AI-Assistant](https://github.com/tanushbhatt/SPARK-AI-Assistant)
+An intelligent AI assistant built with Python, automation, and modern AI technologies.
+`Python`
 
-🔗 [Code](https://github.com/tanushbhatt/VidSnap_AI)
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+### 🟨 [Team-Axis](https://github.com/tanushbhatt/Team-Axis)
+Crop Yield Prediction. *(forked from sampreeti10116/Team-Axis)*
+`Jupyter Notebook`
 
-**Languages**
+</td>
+</tr>
+</table>
 
-![Skills](https://skillicons.dev/icons?i=python,java,c,js,sql)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,react)
-
-**Backend**
-
-![Skills](https://skillicons.dev/icons?i=flask,django)
-
-**Cloud**
-
-![Skills](https://skillicons.dev/icons?i=gcp)
-
-**AI / Databases**
-
-![Skills](https://skillicons.dev/icons?i=opencv,sklearn,mysql,mongodb)
-
-![Extra](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Extra](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Extra](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Extra](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
-![Extra](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Extra](https://img.shields.io/badge/Google%20Gemini-7dd3fc?style=flat-square&logo=google&logoColor=black)
-
-**Dev Tools**
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,jupyter)
-
-## 🔗 Connect With Me
+<br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanush-bhatt-6a553932a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushbhattmains@gmail.com)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushbhattmains@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer" width="100%" />
