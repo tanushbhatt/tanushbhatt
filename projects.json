@@ -1,0 +1,48 @@
+[
+  {
+    "name": "gemini-api-integration",
+    "repo": "tanushbhatt/gemini-api-integration",
+    "description": "A Python AI chatbot built with Google Gemini API featuring conversation memory, MongoDB integration, chat management, and export functionality.",
+    "language": "Python",
+    "stars": 1,
+    "url": "https://github.com/tanushbhatt/gemini-api-integration"
+  },
+  {
+    "name": "tanushbhatt",
+    "repo": "tanushbhatt/tanushbhatt",
+    "description": "",
+    "language": "Python",
+    "stars": 1,
+    "url": "https://github.com/tanushbhatt/tanushbhatt"
+  },
+  {
+    "name": "VidSnap_AI",
+    "repo": "tanushbhatt/VidSnap_AI",
+    "description": "",
+    "language": "HTML",
+    "stars": 1,
+    "url": "https://github.com/tanushbhatt/VidSnap_AI"
+  },
+  {
+    "name": "MyFirstGithubRepo",
+    "repo": "tanushbhatt/MyFirstGithubRepo",
+    "description": "Tower Of Hanoi game",
+    "language": "HTML",
+    "url": "https://github.com/tanushbhatt/MyFirstGithubRepo"
+  },
+  {
+    "name": "SPARK-AI-Assistant",
+    "repo": "tanushbhatt/SPARK-AI-Assistant",
+    "description": "An intelligent AI assistant built with Python, automation, and modern AI technologies.",
+    "language": "Python",
+    "url": "https://github.com/tanushbhatt/SPARK-AI-Assistant"
+  },
+  {
+    "name": "Team-Axis",
+    "repo": "tanushbhatt/Team-Axis",
+    "description": "Crop Yield Prediction",
+    "language": "Jupyter Notebook",
+    "forked_from": "sampreeti10116/Team-Axis",
+    "url": "https://github.com/tanushbhatt/Team-Axis"
+  }
+]
