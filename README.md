@@ -9,11 +9,7 @@
 <br/>
 
 <!-- ============== STREAK ============== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=default&hide_border=true">
-  <img src="https://github-readme-stats-jade-one-93.vercel.app/?user=tanushbhatt&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
-</picture>
+<img src="https://streak-stats.demolab.com/?user=tanushbhatt&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak" width="100%">
 
 <!-- ============== STATS + TOP LANGUAGES ============== -->
 <picture>
